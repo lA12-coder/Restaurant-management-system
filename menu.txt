@@ -1,0 +1,3 @@
+{"name": "gomen", "price": 20.0}
+{"name": "Shiro", "price": 160.0}
+{"name": "Doro", "price": 150.0}
